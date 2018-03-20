@@ -30,3 +30,18 @@
 .brown{
   background-color: brown;
 }
+.bred{
+  border: 2px red solid;
+}
+.bblue{
+  border: 2px solid blue;
+}
+.bgrey{
+  border: 2px solid grey;
+}
+.bgreen{
+  border: 2px green solid;
+}
+.bbrown{
+  border: 2px brown solid;
+}
