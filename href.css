@@ -6,6 +6,7 @@
   color: blue;
 
 }
+
 .red{
   background-color: red;
 }
@@ -44,4 +45,19 @@
 }
 .bbrown{
   border: 2px brown solid;
+}
+.whdr{
+
+}
+.fs-30{
+  font-size: 30px;
+}
+.mrgn-u2p{
+  margin-top: 2%;
+}
+.mrgn-l65p{
+  margin-left: 65%;
+}
+.il-li{
+  display: inline-block;
 }
