@@ -1,3 +1,23 @@
+
+
+.red{
+  background-color: red;
+}
+.grey{
+  background-color: grey;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.brown{
+  background-color: brown;
+}
+.orange{
+  background-color: orange;
+}
 .fred{
   color: red;
 
@@ -5,16 +25,6 @@
 .fblue{
   color: blue;
 
-}
-
-.red{
-  background-color: red;
-}
-.blue{
-  background-color: blue;
-}
-.green{
-  background-color: green;
 }
 .fgreen{
   color: green;
@@ -24,12 +34,6 @@
 }
 .fbrown{
   color: brown;
-}
-.grey{
-  background-color: grey;
-}
-.brown{
-  background-color: brown;
 }
 .bred{
   border: 2px red solid;
@@ -46,11 +50,21 @@
 .bbrown{
   border: 2px brown solid;
 }
-.whdr{
 
-}
 .fs-30{
   font-size: 30px;
+}
+.fs-45{
+  font-size: 45px;
+}
+.b{
+  text-decoration: bold;
+}
+.i{
+  text-decoration: italic;
+}
+.u{
+  text-decoration: underline;
 }
 .mrgn-u2{
   margin-top: 2%;
